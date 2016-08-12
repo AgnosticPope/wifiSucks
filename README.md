@@ -6,8 +6,11 @@ This simple program resets your wifi on macOS whenever it disconnects.  It attem
 Standard qmake build.  E.g.
 
 $ mkdir build
+
 $ cd build
+
 $ qmake ..
+
 $ make -j 4
 
 ...or open in Qt Creator
